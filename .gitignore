@@ -1,0 +1,5 @@
+cpp/build/
+cpp/third_party/
+logs/
+tplogs/
+hdb/
